@@ -1,0 +1,18 @@
+.contact{
+    margin-left: 500px;
+    margin-right: 600px;
+    margin-top: 50px;
+    padding: 100px;
+    border: 2px solid black;
+    font-size: 30px;
+    background-color: rgb(14, 170, 231);
+}
+.contact div{
+    font-size: 40px;
+}
+.contact input{
+    padding: 10px;
+}
+#btn{
+    border-radius: 15px;
+}
